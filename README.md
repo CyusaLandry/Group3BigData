@@ -2,12 +2,12 @@
 
 ## Student Names and IDs
 
-- Manzi Arsene – ID: 27435
-- Nshuti Cesar – ID: 25421 
-- Humure Enock – ID: 27394
-- Ndagijimana Cedric – ID: 27655
-- Cyusa Niyibaho Landry – ID: 25539 
-- Nziza Prince – ID: 26651
+- Manzi Arsene ID: 27435
+- Nshuti Cesar ID: 25421 
+- Humure Enock ID: 27394
+- Ndagijimana Cedric ID: 27655
+- Cyusa Niyibaho Landry ID: 25539 
+- Nziza Prince ID: 26651
 
 ---
 
